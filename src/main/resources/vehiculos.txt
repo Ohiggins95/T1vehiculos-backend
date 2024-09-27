@@ -1,4 +1,3 @@
-#;Placa;Marca;Modelo;NroAsientos;Precio;Color
 ASR-121;KIA;Sportage;5;26000;Negro
 FAD-124;Toyota;Rav;5;26000;Negro
-A6R-637; Nissan; Sentra;5; 25000;Plata
+A6R-637;Nissan;Sentra;5;25000;Plata

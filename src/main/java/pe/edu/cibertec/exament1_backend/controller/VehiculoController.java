@@ -13,7 +13,7 @@ import pe.edu.cibertec.exament1_backend.service.VehiculoService;
 import java.io.IOException;
 
 @RestController
-@RequestMapping("/inicio    ")
+@RequestMapping("/inicio")
 public class VehiculoController {
 
 
